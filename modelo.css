@@ -1,0 +1,52 @@
+body { 
+    background-color: #141414; 
+    color: white; 
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    margin: 0; 
+}
+
+img {
+    width: 300px; 
+    border-radius: 10px; 
+    margin-top: 20px;
+}
+
+section {
+    max-width: 600px;
+    margin: 40px auto; 
+    background: #222; 
+    padding: 20px; 
+    border-radius: 10px; 
+}
+
+a{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e50914;
+    color: white;
+    border-radius: 4px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.nota{
+    text-align: center;
+}
+
+.resenha {
+    text-align: justify;
+    margin: 20px 0;
+}
+
+footer {
+    margin: 30px;
+    color: #ffffff;
+    bottom: 0;
+    position: sticky;
+    text-align: center;
+    background-color: #141414;
+    justify-content: center;
+    width:1465px;
+    padding: 13px;
+}
